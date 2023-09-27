@@ -1,0 +1,87 @@
+company,rank,revenues,profits,assets,industry,sector,previous_rank,country,employees
+Walmart,1,485873,13643,198825,General Merchandisers,Retailing,1,USA,2300000
+State Grid,2,315199,9571.3,489838,Utilities,Energy,2,China,926067
+Sinopec Group,3,267518,1257.9,310726,Petroleum Refining,Energy,4,China,713288
+China National Petroleum,4,262573,1867.5,585619,Petroleum Refining,Energy,3,China,1512048
+Toyota Motor,5,254694,16899.3,437575,Motor Vehicles and Parts,Motor Vehicles & Parts,8,Japan,364445
+Volkswagen,6,240264,5937.3,432116,Motor Vehicles and Parts,Motor Vehicles & Parts,7,Germany,626715
+Royal Dutch Shell,7,240033,4575,411275,Petroleum Refining,Energy,5,Netherlands,89000
+Berkshire Hathaway,8,223604,24074,620854,Insurance: Property and Casualty (Stock),Financials,11,USA,367700
+Apple,9,215639,45687,321686,"Computers, Office Equipment",Technology,9,USA,116000
+Exxon Mobil,10,205004,7840,330314,Petroleum Refining,Energy,6,USA,72700
+McKesson,11,198533,5070,60969,Wholesalers: Health Care,Wholesalers,12,USA,64500
+BP,12,186606,115,263316,Petroleum Refining,Energy,10,Britain,74500
+UnitedHealth Group,13,184840,7017,122810,Health Care: Insurance and Managed Care,Health Care,17,USA,230000
+CVS Health,14,177526,5317,94462,Health Care: Pharmacy and Other Services,Health Care,18,USA,204000
+Samsung Electronics,15,173957,19316.5,217104,"Electronics, Electrical Equip.",Technology,13,South Korea,325000
+Glencore,16,173883,1379,124600,"Mining, Crude-Oil Production",Energy,14,Switzerland,93123
+Daimler,17,169483,9428.4,256262,Motor Vehicles and Parts,Motor Vehicles & Parts,16,Germany,282488
+General Motors,18,166380,9427,221690,Motor Vehicles and Parts,Motor Vehicles & Parts,20,USA,225000
+AT&T,19,163786,12976,403821,Telecommunications,Telecommunications,23,USA,268540
+EXOR Group,20,154894,651.3,186172,Diversified Financials,Financials,19,Netherlands,302562
+FedEx,180,50365,1820,46064,"Mail, Package, and Freight Delivery",Transportation,192,USA,335767
+Hewlett Packard Enterprise,181,50123,3161,79679,Information Technology Services,Technology,0,USA,195000
+Louis Dreyfus Company,182,49838,305,19843,Food Production,"Food, Beverages & Tobacco",157,Netherlands,17407
+Amer International Group,183,49677,1199.9,18405,"Electronics, Electrical Equip.",Technology,190,China,17852
+McDonald’s,436,24622,4686.5,31024,Food Services,"Hotels, Restaurants & Leisure",420,USA,375000
+NEC,437,24596,252,24091,Information Technology Services,Technology,452,Japan,107729
+DuPont,438,24594,2513,39964,Chemicals,Chemicals,379,USA,46000
+Northrop Grumman,440,24508,2200,25614,Aerospace and Defense,Aerospace & Defense,450,USA,67000
+Brookfield Asset Management,441,24411,1651,159826,Diversified Financials,Financials,0,Canada,55700
+Mercantil Servicios Financieros,442,24403,2004.2,148659,Banks: Commercial and Savings,Financials,0,Venezuela,8370
+SAP,443,24397,4031.9,46696,Computer Software,Technology,462,Germany,84183
+ConocoPhillips,444,24360,-3615,89772,"Mining, Crude-Oil Production",Energy,339,USA,13300
+Yangquan Coal Industry Group,445,24284,11.1,30793,"Mining, Crude-Oil Production",Energy,374,China,146236
+Danone,446,24267,1902.1,46350,Food Consumer Products,"Food, Beverages & Tobacco",433,France,99187
+Samsung C&T,447,24217,92.5,36816,"Engineering, Construction",Engineering & Construction,0,South Korea,13898
+Shanxi LuAn Mining Group,448,24087,-106.9,29026,"Mining, Crude-Oil Production",Energy,370,China,95666
+Raytheon,449,24069,2211,30052,Aerospace and Defense,Aerospace & Defense,457,USA,63000
+Midea Group,450,24060,2210.4,24549,"Electronics, Electrical Equip.",Technology,481,China,126418
+Chubu Electric Power,451,24028,1058.2,48580,Utilities,Energy,448,Japan,30635
+BAE Systems,452,24011,1232.3,28383,Aerospace and Defense,Aerospace & Defense,415,Britain,76000
+Andeavor,453,24005,734,20398,Petroleum Refining,Energy,375,USA,6308
+China Datang,454,23871,243.9,101631,Energy,Energy,406,China,97091
+Flex,455,23863,319.6,12593,Semiconductors and Other Electronic Components,Technology,441,Singapore,200000
+Arrow Electronics,456,23825,522.8,14206,Wholesalers: Electronics and Office Equipment,Wholesalers,455,USA,18700
+Heraeus Holding,457,23793,,4982,Metals,Materials,0,Germany,12369
+Compal Electronics,458,23773,252.1,10769,"Computers, Office Equipment",Technology,400,Taiwan,64728
+Yango Financial Holding,459,23657,159.2,24231,Diversified Financials,Financials,0,China,10234
+Qualcomm,460,23554,5705,52359,Semiconductors and Other Electronic Components,Technology,422,USA,30500
+Alfresa Holdings,461,23551,285.1,11273,Wholesalers: Health Care,Wholesalers,492,Japan,13217
+Alibaba Group Holding,462,23517,6489.5,73538,Internet Services and Retailing,Technology,0,China,50097
+Koc Holding,463,23456,1144.2,25047,Energy,Energy,419,Turkey,95456
+Progressive,464,23441,1031,33428,Insurance: Property and Casualty (Stock),Financials,0,USA,31721
+Duke Energy,465,23369,2152,132761,Utilities,Energy,446,USA,28798
+Michelin,466,23120,1853.4,26705,Motor Vehicles and Parts,Motor Vehicles & Parts,451,France,105654
+Country Garden Holdings,467,23044,1733.6,85124,Real estate,Financials,0,China,94450
+Heineken Holding,468,23044,861.5,41469,Beverages,"Food, Beverages & Tobacco",459,Netherlands,73525
+Enterprise Products Partners,469,23022,2513.1,52194,Pipelines,Energy,392,USA,6800
+AstraZeneca,470,23002,3499,62526,Pharmaceuticals,Health Care,435,Britain,59700
+Amgen,471,22991,7722,77626,Pharmaceuticals,Health Care,487,USA,19200
+Rabobank Group,472,22956,828.3,698790,Banks: Commercial and Savings,Financials,445,Netherlands,40029
+Altice,473,22953,-1722.5,84805,Telecommunications,Telecommunications,0,Netherlands,49732
+Onex,474,22943,-130,42913,Semiconductors and Other Electronic Components,Technology,483,Canada,161000
+US Foods Holding,475,22919,209.8,8945,Wholesalers: Food and Grocery,Wholesalers,461,USA,25000
+Randstad Holding,477,22873,650.2,9624,Temporary Help,Business Services,494,Netherlands,32280
+Tencent Holdings,478,22871,6185.9,56968,Internet Services and Retailing,Technology,0,China,38775
+LG Display,479,22840,781.4,20606,"Electronics, Electrical Equip.",Technology,429,South Korea,49094
+Emirates Group,480,22799,340.3,33096,Airlines,Transportation,472,U.A.E,64768
+U.S. Bancorp,481,22744,5888,445964,Banks: Commercial and Savings,Financials,490,USA,71191
+H & M Hennes & Mauritz,482,22618,2192.3,10681,Specialty Retailers,Retailing,488,Sweden,114586
+Aflac,483,22559,2659,129819,"Insurance: Life, Health (stock)",Financials,0,USA,10212
+Sodexo,484,22477,707.2,15766,Food Services,"Hotels, Restaurants & Leisure",466,France,425594
+Suning Commerce Group,485,22366,106,19738,Specialty Retailers,Retailing,0,China,60354
+GS Caltex,486,22207,1221.1,15969,Petroleum Refining,Energy,431,South Korea,2949
+Ultrapar Holdings,487,22167,447.5,7426,Energy,Energy,474,Brazil,15173
+Xiamen C&D,488,22145,280.2,21729,Trading,Wholesalers,0,China,18381
+Sears Holdings,489,22138,-2221,9362,General Merchandisers,Retailing,425,USA,140000
+China General Technology,490,22113,413.6,20860,"Engineering, Construction",Engineering & Construction,383,China,38589
+National Grid,491,22036,10150.6,82310,Utilities,Energy,471,Britain,22132
+Dollar General,492,21987,1251.1,11672,Specialty Retailers,Retailing,0,USA,121000
+Telecom Italia,493,21941,1999.4,74295,Telecommunications,Telecommunications,404,Italy,61227
+Xiamen ITG Holding Group,494,21930,35.6,12161,Trading,Wholesalers,0,China,18454
+Teva Pharmaceutical Industries,496,21903,329,92890,Pharmaceuticals,Health Care,0,Israel,56960
+New China Life Insurance,497,21796,743.9,100609,"Insurance: Life, Health (stock)",Financials,427,China,54378
+Wm. Morrison Supermarkets,498,21741,406.4,11630,Food and Drug Stores,Food & Drug Stores,437,Britain,77210
+TUI,499,21655,1151.7,16247,Travel Services,Business Services,467,Germany,66779
+AutoNation,500,21609,430.5,10060,Specialty Retailers,Retailing,0,USA,26000
