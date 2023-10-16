@@ -8,7 +8,7 @@ Welcome to the Applied Data Lab Assignments repository! This repository serves a
 
 
 
-## Assignment: Anaconda Download and Installation
+## Anaconda Download and Installation
 
 Follow these simple steps to download and install Anaconda on your system. You can also watch a video tutorial for a visual guide.
 
