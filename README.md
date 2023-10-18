@@ -33,10 +33,12 @@ Sure, you can enhance the presentation of your "Data Analysis" section by provid
 
 Welcome to the Data Analysis phase of our Applied Data Lab Assignments. In this section, you will find a breakdown of our assignments, organized into two phases:
 
-### Phase 1: Fundamentals of Python [![Assignment](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/umar-anzar/Applied_Data_Lab_Assignments/tree/master/phase_1)
+### Phase 1: Fundamentals of Python 
+[![Assignment Badge](https://img.shields.io/badge/open-assignment-darkgreen)](https://github.com/umar-anzar/Applied_Data_Lab_Assignments/tree/master/phase_1)
 - Dive into the fundamentals of Python and build a strong foundation for your data science journey. This phase covers essential Python concepts and programming techniques, ensuring you are well-equipped to handle data analysis tasks.
 
-### Phase 2: All About Pandas [![Assignment](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/umar-anzar/Applied_Data_Lab_Assignments/tree/master/phase_2)
+### Phase 2: All About Pandas 
+[![Assignment Badge](https://img.shields.io/badge/open-assignment-darkgreen)](https://github.com/umar-anzar/Applied_Data_Lab_Assignments/tree/master/phase_2)
 - Explore the power of Pandas, a crucial library for data manipulation and analysis in Python. In this phase, you'll work with Pandas to handle data, perform data cleaning, and conduct data exploration.
 
 These phases are designed to provide a structured learning path, guiding you from Python fundamentals to practical data analysis skills using Pandas. Click on the provided links to access the respective repositories and assignments. Happy learning! 📊🐍
